@@ -1,5 +1,13 @@
 #  Prolog Programming Collection
 
+<div align="center">
+  <img src="https://img.shields.io/github/repo-size/givemehat/Prolog_Codes?style=for-the-badge&color=blue" alt="Repository Size" />
+  <img src="https://img.shields.io/github/license/givemehat/Prolog_Codes?style=for-the-badge&color=green" alt="License" />
+  <img src="https://img.shields.io/github/commit-activity/m/givemehat/Prolog_Codes?style=for-the-badge&color=orange" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/last-commit/givemehat/Prolog_Codes?style=for-the-badge&color=red" alt="Last Commit" />
+</div>
+
+
 Welcome to my **Prolog Programming Collection**! This repository contains a curated set of Prolog programs demonstrating the principles of **logic programming**, **declarative problem solving**, and **artificial intelligence**.
 
 ##  About
